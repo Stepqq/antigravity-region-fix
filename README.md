@@ -29,6 +29,10 @@ Antigravity's `language_server.exe` may bypass the proxy configured for the main
 
 Only applications that use these variables are affected. **You do not need to tunnel all system traffic.**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a062e95-fbdb-41b8-afcf-e9d1660268ef" width="900" alt="Antigravity working through V2RayN proxy">
+</p>
+
 ## Notes
 
 - V2RayN must be running.
